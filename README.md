@@ -27,6 +27,7 @@ Python-based Voice recognition(Assistant) that uses speech recognition and text-
   - Shares the latest new 
   - Tells the stock price
   - Tells the weather condition
+  - Tells Joke
   
 
 
