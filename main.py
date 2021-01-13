@@ -49,6 +49,7 @@ def respond(voice_data):
         webbrowser.get().open(url)
         bot_speak('Here are the location results that I have found for ' + location) 
     if 'exit' in voice_data:
+        bot_speak("buh-bye")
         exit()
   
 time.sleep(1) 
