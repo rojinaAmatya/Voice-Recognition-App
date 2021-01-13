@@ -10,6 +10,8 @@ Python-based Voice recognition(Assistant) that uses speech recognition and text-
   pip install pyaudio (If this doesn't work)
       - pip install pipwin
       - pip install pyaudio
+  pip install gTTs
+  pip install playsound
 
 ```
 
