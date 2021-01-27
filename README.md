@@ -26,7 +26,7 @@ Python-based Voice recognition(Assistant) that uses speech recognition and text-
   - Search Youtube
   - Shares the latest new 
   - Tells the stock price
-  - Tells the weather condition
+  - Tells the weather 
   - Tells Joke
   
 
